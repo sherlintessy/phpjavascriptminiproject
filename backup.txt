@@ -1,0 +1,5 @@
+<div id="categ">
+   <figure id="career" class="picborder" ><a  href="carrerinfo.php"><img  class="pic" src="careerpic1.jpg" alt="logo"/></a><figcaption>CAREER</figcaption></figure>
+   <figure class="picborder" ><a  href="entertaininfo.php"><img  class="pic" src="entertainic1.png" alt="logo"/></a><figcaption>ENTERTAINMENT</figcaption></figure>
+   <figure class="picborder" ><a  href="foodinfo.php"><img  class="pic" src="foodpic.jpg" alt="logo"/></a><figcaption>FOOD</figcaption></figure>
+  </div>
